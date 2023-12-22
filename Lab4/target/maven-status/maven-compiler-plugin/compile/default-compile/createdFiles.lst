@@ -1,0 +1,10 @@
+Controller$1.class
+DTO\AddSlotDTO.class
+DBO\Doctor.class
+DBO\User.class
+DBO\Slot.class
+DTO\AddUserToSlotDTO.class
+Server.class
+WebAppSingletons.class
+Controller.class
+API.class
